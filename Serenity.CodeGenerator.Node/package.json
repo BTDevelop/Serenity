@@ -5,7 +5,7 @@
   "preferGlobal": true,
   "dependencies": {
     "inquirer": "^2.0.0",
-    "inquirer-autocomplete-prompt": "^0.3.0",
+    "inquirer-autocomplete-prompt": "^0.12.2",
     "temp": "^0.8.3"
   },
   "scripts": {},
