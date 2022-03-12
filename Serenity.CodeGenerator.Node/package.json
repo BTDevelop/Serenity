@@ -6,7 +6,7 @@
   "dependencies": {
     "inquirer": "^2.0.0",
     "inquirer-autocomplete-prompt": "^0.3.0",
-    "temp": "^0.8.3"
+    "temp": "^0.9.4"
   },
   "scripts": {},
   "repository": {
